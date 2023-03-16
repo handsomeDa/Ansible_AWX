@@ -18,7 +18,7 @@ pip3 install -U pip setuptools
 pip3 install setuptools_rust
 pip3 install wheel
 ```
-If you haven't installed Ansible yet, please install it through pip3 instead of using YUM to avoid issue with multiple version.
+If you haven't installed Ansible yet, please install it in this step through pip3 instead of using YUM to avoid issue with multiple version.
 ```
 pip3 install ansible
 ```
